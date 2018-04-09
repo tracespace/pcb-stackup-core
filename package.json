@@ -48,8 +48,8 @@
   },
   "homepage": "https://github.com/tracespace/pcb-stackup-core",
   "peerDependencies": {
-    "gerber-to-svg": "^2.0.0",
-    "whats-that-gerber": "^2.0.0"
+    "gerber-to-svg": "https://github.com/kasbah/gerber-to-svg#upgrade-parser",
+    "whats-that-gerber": "^3.0.0"
   },
   "devDependencies": {
     "async": "^2.1.4",
@@ -57,7 +57,7 @@
     "chai": "^3.5.0",
     "coveralls": "^2.11.9",
     "domify": "^1.4.0",
-    "gerber-to-svg": "^2.0.0",
+    "gerber-to-svg": "https://github.com/kasbah/gerber-to-svg#upgrade-parser",
     "hapi": "^16.1.0",
     "inert": "^4.0.0",
     "lodash.template": "^4.2.4",
